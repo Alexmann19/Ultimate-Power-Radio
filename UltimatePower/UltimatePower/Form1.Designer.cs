@@ -58,6 +58,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.tbvolume = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
+            this.button7 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -365,11 +366,25 @@
             this.label5.TabIndex = 30;
             this.label5.Text = "Volume:";
             // 
+            // button7
+            // 
+            this.button7.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.Color.Red;
+            this.button7.Location = new System.Drawing.Point(260, 3);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(53, 47);
+            this.button7.TabIndex = 31;
+            this.button7.Text = "X";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(314, 587);
+            this.ControlBox = false;
+            this.Controls.Add(this.button7);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.tbvolume);
             this.Controls.Add(this.label4);
@@ -442,6 +457,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox tbvolume;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button7;
     }
 }
 

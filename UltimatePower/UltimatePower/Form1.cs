@@ -194,5 +194,11 @@ namespace UltimatePower
             tbcustom.Text = eingabe[0];
             MessageBox.Show("Sie haben den Sender " + tbsendername.Text + " erfolgreich geladen!", "Laden erfolgreich", MessageBoxButtons.OK);
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            player.controls.stop();
+            this.Close();
+        }
     }
 }
