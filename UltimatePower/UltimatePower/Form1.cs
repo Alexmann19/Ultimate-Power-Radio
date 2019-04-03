@@ -18,11 +18,12 @@ namespace UltimatePower
         public Form1()
         {
             InitializeComponent();
+            tbvolume.Text = Convert.ToString(volume);
         }
 
         public static String Link = @"C:\Radiosender\";
         public static String Link2 = ".ini";
-        public static int volume = 50;
+        public static int volume = 100;
         public static string url = " ";
 
         public static WMPLib.WindowsMediaPlayer player = new WMPLib.WindowsMediaPlayer();
@@ -123,16 +124,35 @@ namespace UltimatePower
 
         private void button3_Click(object sender, EventArgs e)
         {
-            volume = volume + 10;
-
-            player.settings.volume = volume;
+            if (volume <= 95)
+            {
+                if (volume > 95 & volume < 100)
+                {
+                    volume = 100;
+                    player.settings.volume = volume;
+                    tbvolume.Text = Convert.ToString(volume);
+                }
+                else
+                volume = volume + 5;
+                player.settings.volume = volume;
+                tbvolume.Text = Convert.ToString(volume);
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            volume = volume - 10;
-
-            player.settings.volume = volume;
+            if (volume >= 5)
+            {
+                if (volume < 5 & volume > 0)
+                {
+                    volume = 0;
+                    player.settings.volume = volume;
+                    tbvolume.Text = Convert.ToString(volume);
+                }
+                volume = volume - 5;
+                player.settings.volume = volume;
+                tbvolume.Text = Convert.ToString(volume);
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

@@ -18,3 +18,23 @@ C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\UltimatePower\UltimatePower\bin\
 C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\UltimatePower\UltimatePower\bin\Debug\UltimatePower.application
 C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\UltimatePower\UltimatePower\obj\Debug\UltimatePower.exe.manifest
 C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\UltimatePower\UltimatePower\obj\Debug\UltimatePower.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\UltimatePower.exe.config
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\UltimatePower.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\UltimatePower.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\UltimatePower.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\UltimatePower.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.Form1.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.Form2.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.Properties.Resources.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Ultimate Power Radio\UltimatePower\UltimatePower\obj\Debug\UltimatePower.pdb
